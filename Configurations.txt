@@ -1,0 +1,3 @@
+HeaderXDBSAPIName
+HeaderXDBSAPIKey
+HeaderXDBSRqClient
